@@ -1,0 +1,11 @@
+# Stock Portfolio Tracker - Requirements
+# This project uses Python 3 standard library modules only.
+# No third-party packages or external dependencies are required.
+
+# Recommended Python Version:
+# Python >= 3.6
+
+# Standard Library Modules Utilized:
+# - csv (standard library - for CSV file read/write)
+# - sys (standard library - for system-level exit handling)
+
